@@ -20,7 +20,7 @@ torch.backends.cudnn.deterministic = True
 torch.backends.cudnn.benchmark = False
 set_seed(SEED)
 
-api = "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"
+api = ""
 
 # ==================== MODEL VE DATASET ====================
 model_name = "Qwen/Qwen2.5-7B-Instruct"
